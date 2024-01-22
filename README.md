@@ -1,5 +1,5 @@
 ### <div align="center">🚀 Sobre mi:
-¡Hola! Soy Lautaro Mabras, un estudiante de 18 años de Argentina. Actualmente, estoy estudiando para convertirme en analista de sistemas en la Facultad de Buenos Aires, y estoy aprendiendo diferentes lenguajes de programación, incluyendo HTML, CSS y JavaScript. Soy una persona muy consistente y me enfoco en alcanzar mis metas con dedicación y esfuerzo.<br>En mi tiempo libre, disfruto de leer y ver videos de programación para aprender aún más sobre este apasionante mundo.</div>  
+¡Hola! Soy Lautaro Mabras, un estudiante de 18 años de Argentina. Actualmente, estoy estudiando para convertirme en un ingeniero informatico en la Facultad de Buenos Aires, y estoy aprendiendo diferentes lenguajes de programación, incluyendo HTML, CSS y JavaScript. Soy una persona muy consistente y me enfoco en alcanzar mis metas con dedicación y esfuerzo.<br>En mi tiempo libre, disfruto de leer y ver videos de programación para aprender aún más sobre este apasionante mundo.</div>  
   
 
 <br/>  
